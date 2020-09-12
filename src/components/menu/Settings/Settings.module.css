@@ -1,0 +1,13 @@
+.wrapper h3 {
+  font-size: 14px;
+}
+.sliderWrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  max-width: 60vw;
+}
+
+.slider {
+  flex-grow: 1;
+}

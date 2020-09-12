@@ -1,0 +1,39 @@
+.graph {
+  display: flex;
+  align-items: flex-end;
+  position: relative;
+  height: 300px;
+}
+
+.buttonsWrapper {
+  margin: 20px 0 0 0;
+}
+
+.buttonLine {
+  width: 100%;
+  display: flex;
+}
+
+.buttonLeft,
+.buttonRight {
+  width: 50%;
+  display: flex;
+  margin: 5px;
+}
+
+.buttonLeft {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.buttonRight {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.stepsLeft {
+  font-size: 24px;
+  font-weight: bold;
+  justify-content: center;
+  display: flex;
+}

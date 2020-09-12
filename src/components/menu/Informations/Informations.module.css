@@ -1,0 +1,9 @@
+.wrapper {
+  width: 300px;
+  max-width: 60vw;
+}
+
+.complexity {
+  display: flex;
+  justify-content: space-around;
+}

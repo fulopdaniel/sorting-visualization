@@ -1,0 +1,9 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0px 60px 0;
+}
+
+.wrapper > span {
+  margin: 0 10px;
+}

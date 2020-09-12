@@ -1,0 +1,11 @@
+.bar {
+  background: rgb(29, 99, 250);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.bar.isSelected {
+  background: rgb(231, 62, 62);
+  z-index: 999;
+}
